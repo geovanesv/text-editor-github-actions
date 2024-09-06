@@ -39,7 +39,7 @@
 <h4>Install project</h4>
 
 ```
-git clone https://github.com/geovanesv/text-editor.git
+git clone https://github.com/geovanesv/text-editor-github-actions.git
 npm install
 ```
 
@@ -60,21 +60,6 @@ To get these values you need to create an Account on [HyGraph](https://app.hygra
   //in root
   npm start
 ```
-
-<h2 id="contribute">👩‍💻 Contribute</h2>
-
-If you want to contribute, clone this repo, create your work branch and get your hands dirty!
-
-```bash
-git clone https://github.com/geovanesv/text-editor.git
-git checkout -b feature/NAME
-```
-
- At the end, open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
-
-[How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
-
-[Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
 
 <h2 id="license">📃 License</h2>
